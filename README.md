@@ -19,4 +19,8 @@ feature 2 second change
 
 feature 2 third change
 
+feature3 first change
+
+feature3 second change
+
 
