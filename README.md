@@ -15,3 +15,5 @@ Another change on branch v1.1
 
 feature 2 change
 
+feature 2 second change
+
